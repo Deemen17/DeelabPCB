@@ -17,9 +17,12 @@ Layout available here: [KLE](http://www.keyboard-layout-editor.com/#/gists/2b73d
 ## QMK Firmware
 You can find and modify source [here](https://github.com/Deemen17/qmk_firmware/tree/deelab_develop/keyboards/deelab/dee1800fl)
 
-## File detail:
+## Files detail:
 * `deelab_dee1800FL_via_v3.json` : for loading on [VIA](https://usevia.app/)
 * `deelab_dee1800FL_via.uf2` : firmware for flashing
+
+### How to download files: 
+Move your cursor to files above, right click then press **Save link as...**
 
 ## How to flash new firmware:
 * **Step 1**: Enter the bootloader in 3 ways
