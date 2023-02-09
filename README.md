@@ -1,5 +1,5 @@
-# DeelabPCB
-All resource and documentation for Deelab PCBs
+# Deemen17 PCB Collection
+All resource and documentation for Deemen17's PCBs
 
 ## Contact
 * Facebook: [Pham Duc Minh](https://www.facebook.com/minhsat02)
