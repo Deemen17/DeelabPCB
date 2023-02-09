@@ -1,6 +1,6 @@
 # Deemen17 dee1800FL PCB
-
-![dee1800FL](updating image)
+![dee1800FL-front](https://user-images.githubusercontent.com/95753855/217714488-8f199941-adea-4f22-a586-95d7c693f6ab.png)
+![z4095475175387_361c0af3d0ab31d3d8345491f15e48ab](https://user-images.githubusercontent.com/95753855/217714428-fb10f373-a566-44e7-9264-a3ad0ba5959e.jpg)
 
 Layout available here: [KLE](http://www.keyboard-layout-editor.com/#/gists/2b73d56f989abd9a6dcb6a0afe722066) 
 
