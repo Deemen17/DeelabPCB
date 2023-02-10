@@ -1,19 +1,18 @@
 # Deemen17 Decan PCB
-
-Layout available here: [KLE](http://www.keyboard-layout-editor.com/#/gists/c0c59d30865d535b082bd34e2c76114a) 
+![Decan_back](https://user-images.githubusercontent.com/95753855/218182309-5900a36c-d996-4780-948e-a1f92b90ae09.png)
 
 ## Specification:
-* Zodiac - Pisces PCB compatible
+* Zodiac - Mechlovin' Pisces PCB compatible
 * 1.6mm thickness
-* Layout 65% ~ 67 keys
+* Layout 65% available here: [KLE](http://www.keyboard-layout-editor.com/#/gists/c0c59d30865d535b082bd34e2c76114a) 
 * Solder only
 * USB Type C
-* Powered by ATmega32u4 MCU
-* Upper RGB LEDs around 
-* Caps Lock LED indication
-* Programmable with QMK and VIA
+* PCB colour: Purple
 * ESD protection
-* PCB colour: Black
+* Powered by ATmega32u4 MCU
+* Programmable with QMK and VIA
+* Upper RGB LEDs around (Need to short the JP1 near Backspace Key)
+* Caps Lock LED indication
 
 ## QMK Firmware
 You can find and modify source [here](updating)
